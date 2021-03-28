@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi dear, I'm Yuri Geovani 👋 [Hi, dear!](https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif)!
 
 <!--
 **yurigeovani/yurigeovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
