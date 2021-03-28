@@ -1,16 +1,16 @@
-### Hi dear, I'm Yuri Geovani 👋 [Hi, dear!](https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif)!
+<!--### Hi dear, I'm Yuri Geovani 👋 [Hi, dear!](https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif)!
 
-<!--
-**yurigeovani/yurigeovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello dear <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30px">! I'm Yuri Geovani!</h1>
+<h3 align="center">A Web Developer Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I am a Web Developer student looking for the first opportunity in the field.
+I have nine years of experience in infrastructure (hardware, software, structured cabling, routers), from management to
+preventive and corrective maintenance of IT assets. Strong experience in customer/user support regarding software and
+equipment.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a <img src="https://komarev.com/ghpvc/?username=yurigeovani&style=plastic" alt="yurigeovani" /> </a>
+  <a href="https://www.linkedin.com/in/yurigeovani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yurigeovani" height="20" width="20" /></a>
+</p>
