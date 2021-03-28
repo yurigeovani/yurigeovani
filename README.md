@@ -9,7 +9,7 @@ equipment.
 </p>
 
 <p align="center">
-  <a <img src="https://komarev.com/ghpvc/?username=yurigeovani&style=plastic" alt="yurigeovani" /> </a>
   <a href="https://www.linkedin.com/in/yurigeovani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg" alt="yurigeovani" height="20" width="20" /></a>
   <a href="mailto:yuri_geovani@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/microsoftoutlook.svg" alt="yurigeovani" height="20" width="20" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yurigeovani" alt="yurigeovani" /> </p>
