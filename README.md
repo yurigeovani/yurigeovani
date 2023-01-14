@@ -1,9 +1,9 @@
 <h1 align="center">Hello dear <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30px">! I'm Yuri Geovani!</h1>
-<h3 align="center">A Web Developer Student</h3>
+<h3 align="center">A Developer Student</h3>
 
 <p align="center">
-I'm a Web Developer student looking for the first opportunity in the field.
-I have nine years of experience in infrastructure (hardware, software, structured cabling, routers), from management to
+I'm a Developer student looking for the first opportunity in the field.
+I have ten years of experience in infrastructure (hardware, software, structured cabling, routers), from management to
 preventive and corrective maintenance of IT assets. Strong experience in customer/user support regarding software and
 equipment.
 </p>
